@@ -1,12 +1,11 @@
 <!-- ============================================================
-     MILLER SALCEDO — GitHub Profile README
+     MillerSingularityAI — GitHub Profile README
      AI Engineer · Software Engineer · AI Research Enthusiast
      ============================================================ -->
 
-<!-- LIGHT MODE BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=160&section=header&text=Miller%20Salcedo&fontSize=42&fontColor=58a6ff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20Research%20Enthusiast&descSize=14&descFontColor=8b949e&descAlignY=75&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6ff,50:dbeafe,100:bfdbfe&height=160&section=header&text=Miller%20Salcedo&fontSize=42&fontColor=1d4ed8&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20Research%20Enthusiast&descSize=14&descFontColor=3b82f6&descAlignY=75&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:005500,100:007700&height=180&section=header&text=Miller%20Salcedo&fontSize=46&fontColor=39ff14&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=14&descFontColor=00ff88&descAlignY=72&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6ff,50:dbeafe,100:bfdbfe&height=180&section=header&text=Miller%20Salcedo&fontSize=46&fontColor=1d4ed8&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=14&descFontColor=3b82f6&descAlignY=72&animation=fadeIn">
 </picture>
 
 <br/>
@@ -76,30 +75,29 @@ I read papers, follow researchers, and think about these questions not just as a
 
 ## 🤖 AI Engineering
 
-<!-- DARK MODE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20Integration-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-f8fafc?style=for-the-badge&logo=openai&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20Integration-39ff14?style=for-the-badge&logo=openai&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-1d4ed8?style=for-the-badge&logo=openai&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=anthropic&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-f8fafc?style=for-the-badge&logo=anthropic&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prompt%20Engineering-39ff14?style=for-the-badge&logo=anthropic&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1d4ed8?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=probot&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-f8fafc?style=for-the-badge&logo=probot&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Agents-39ff14?style=for-the-badge&logo=probot&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-1d4ed8?style=for-the-badge&logo=probot&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logo=databricks&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-f8fafc?style=for-the-badge&logo=databricks&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG%20Pipelines-39ff14?style=for-the-badge&logo=databricks&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-1d4ed8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vector%20DBs-0d1117?style=for-the-badge&logo=pinecone&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-f8fafc?style=for-the-badge&logo=pinecone&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vector%20DBs-39ff14?style=for-the-badge&logo=pinecone&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-1d4ed8?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python%20AI%20Stack-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
-  <img src="https://img.shields.io/badge/Python%20AI%20Stack-f8fafc?style=for-the-badge&logo=python&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python%20AI%20Stack-39ff14?style=for-the-badge&logo=python&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
+  <img src="https://img.shields.io/badge/Python%20AI%20Stack-1d4ed8?style=for-the-badge&logo=python&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 
 ---
@@ -179,12 +177,12 @@ miller = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username= MillerSingularity&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MillerSingularityAI&show_icons=true&hide_border=true&bg_color=0d1a0d&title_color=39ff14&icon_color=00ff88&text_color=39ff14&ring_color=39ff14"/>
     <img src="https://github-readme-stats.vercel.app/api?username=MillerSingularityAI&show_icons=true&theme=default&hide_border=true&bg_color=f0f6ff&title_color=1d4ed8&icon_color=3b82f6&text_color=1e3a5f" height="165"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MillerSingularityAI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MillerSingularityAI&layout=compact&hide_border=true&bg_color=0d1a0d&title_color=39ff14&text_color=00ff88"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MillerSingularityAI&layout=compact&theme=default&hide_border=true&bg_color=f0f6ff&title_color=1d4ed8&text_color=1e3a5f" height="165"/>
   </picture>
 </p>
@@ -200,14 +198,22 @@ miller = {
 </p>
 
 <p align="center">
-  <i>Open to collaborating on AI-powered products, open source, and ambitious software projects.<br/>
-  Also always up for deep conversations about AGI, consciousness, and the future of intelligence.</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🚀%20Open%20to%20AI%20products%2C%20open%20source%20%26%20ambitious%20software%20projects-00ff88?style=for-the-badge&labelColor=003300&color=003300"/>
+    <img src="https://img.shields.io/badge/🚀%20Open%20to%20AI%20products%2C%20open%20source%20%26%20ambitious%20software%20projects-3b82f6?style=for-the-badge&labelColor=dbeafe&color=dbeafe"/>
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🧠%20Always%20up%20for%20deep%20talks%20about%20AGI%2C%20consciousness%20%26%20the%20future%20of%20intelligence-39ff14?style=for-the-badge&labelColor=003300&color=003300"/>
+    <img src="https://img.shields.io/badge/🧠%20Always%20up%20for%20deep%20talks%20about%20AGI%2C%20consciousness%20%26%20the%20future%20of%20intelligence-1d4ed8?style=for-the-badge&labelColor=dbeafe&color=dbeafe"/>
+  </picture>
 </p>
 
 ---
 
-<!-- FOOTER WAVE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,100:dbeafe&height=100&section=footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:005500,100:007700&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=39ff14&fontAlignY=65">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,100:dbeafe&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=1d4ed8&fontAlignY=65">
 </picture>
+

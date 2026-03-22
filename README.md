@@ -1,16 +1,213 @@
-## Hi there 👋
+<!-- ============================================================
+     MILLER SALCEDO — GitHub Profile README
+     AI Engineer · Software Engineer · AI Research Enthusiast
+     ============================================================ -->
 
-<!--
-**MillerSingularityAI/MillerSingularityAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- LIGHT MODE BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=160&section=header&text=Miller%20Salcedo&fontSize=42&fontColor=58a6ff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20Research%20Enthusiast&descSize=14&descFontColor=8b949e&descAlignY=75&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6ff,50:dbeafe,100:bfdbfe&height=160&section=header&text=Miller%20Salcedo&fontSize=42&fontColor=1d4ed8&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20Research%20Enthusiast&descSize=14&descFontColor=3b82f6&descAlignY=75&animation=fadeIn"/>
+</picture>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- HEADLINE ROW -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/miller-ferney-salcedo-beltran/">
+    <img src="https://img.shields.io/badge/LinkedIn-Miller%20Salcedo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-8b5cf6?style=flat-square&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Passion-AGI%20%26%20Consciousness-a855f7?style=flat-square&logo=academia&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-22c55e?style=flat-square"/>
+</p>
+
+<p align="center">
+  <i>"Building intelligent systems while obsessing over the deeper question — what intelligence truly is."</i>
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a self-driven engineer with deep curiosity about **how intelligent systems work** — not just on the surface, but structurally and conceptually.
+
+My work lives at the crossroads of three disciplines:
+
+| 🤖 AI Engineering | 💻 Software Engineering | 🎨 Design & UX |
+|:---:|:---:|:---:|
+| LLMs · Agents · Pipelines | Systems · APIs · Architecture | Interfaces · Interaction · Flow |
+
+I don't just build features — I build **systems that think, scale, and matter**.
+
+But beyond building, I'm driven by a deeper obsession: **understanding what intelligence fundamentally is** — and where it's heading.
+
+---
+
+## 🔬 AI Research Enthusiast
+
+> *"The most important question of our time isn't how to build AI — it's understanding what we're actually building."*
+
+I'm deeply fascinated by the scientific and philosophical frontiers of AI. Not just the tools, but the underlying nature of the technology:
+
+```
+🧬  How do LLMs actually "understand"? Or do they?
+🌀  What role does consciousness play in general intelligence?
+🚀  What are the real paths toward AGI and ASI?
+⚖️  What does alignment look like at superhuman capability levels?
+🔭  What can neuroscience teach us about building better AI?
+```
+
+**Areas I actively follow and think about:**
+
+| Domain | What draws me in |
+|---|---|
+| 🧠 **Consciousness & Cognition** | The hard problem, integrated information theory, global workspace theory |
+| 🤖 **AGI / ASI Research** | Scaling laws, emergent capabilities, architectural frontiers |
+| 🔬 **AI Alignment & Safety** | Interpretability, goal specification, corrigibility |
+| 🌐 **Cognitive Science & AI** | Embodied cognition, perception, how minds model the world |
+| 📡 **Neuroscience × ML** | What biological intelligence reveals about synthetic intelligence |
+
+I read papers, follow researchers, and think about these questions not just as abstractions — but as the **foundation for building AI systems that are truly meaningful**.
+
+---
+
+## 🤖 AI Engineering
+
+<!-- DARK MODE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20Integration-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-f8fafc?style=for-the-badge&logo=openai&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=anthropic&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-f8fafc?style=for-the-badge&logo=anthropic&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=probot&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-f8fafc?style=for-the-badge&logo=probot&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logo=databricks&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-f8fafc?style=for-the-badge&logo=databricks&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vector%20DBs-0d1117?style=for-the-badge&logo=pinecone&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-f8fafc?style=for-the-badge&logo=pinecone&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python%20AI%20Stack-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/Python%20AI%20Stack-f8fafc?style=for-the-badge&logo=python&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
+</picture>
+
+---
+
+## 💻 Software Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🎨 Design & UX
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20Systems-7C3AED?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HCI-E11D48?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```python
+miller = {
+    "role":    ["AI Engineer", "Software Engineer", "AI Research Enthusiast"],
+    "building": [
+        "UI/UX learning platform powered by LLMs",
+        "AI agent workflows and RAG pipelines",
+        "Design systems that integrate with AI",
+    ],
+    "learning": [
+        "Advanced prompt engineering & LLM fine-tuning",
+        "System design & software architecture",
+        "MLOps and AI deployment patterns",
+    ],
+    "obsessed_with": [
+        "The path to AGI and what it actually requires",
+        "Consciousness research and its connection to machine intelligence",
+        "AI alignment and the long-term trajectory of ASI",
+        "Emergent capabilities and what they reveal about intelligence",
+    ],
+    "seeking":  "Real-world opportunities in AI Engineering + Research",
+}
+```
+
+---
+
+## 🧭 Engineering Principles
+
+> These guide every system I design and every line I write.
+
+```
+◈  First-Principles Thinking   — break problems down to their core
+◈  Builder Mentality           — ship, iterate, improve relentlessly
+◈  Systems Over Features       — think architecture, not just output
+◈  Intelligence × Design       — AI should be useful AND delightful
+◈  Future-Oriented Vision      — build for where tech is going, not just where it is
+◈  Research-Informed Building  — let science shape what and how we create
+◈  Curiosity Above All         — the best engineers are obsessive learners
+```
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username= MillerSingularity&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MillerSingularityAI&show_icons=true&theme=default&hide_border=true&bg_color=f0f6ff&title_color=1d4ed8&icon_color=3b82f6&text_color=1e3a5f" height="165"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MillerSingularityAI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MillerSingularityAI&layout=compact&theme=default&hide_border=true&bg_color=f0f6ff&title_color=1d4ed8&text_color=1e3a5f" height="165"/>
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miller-ferney-salcedo-beltran/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to collaborating on AI-powered products, open source, and ambitious software projects.<br/>
+  Also always up for deep conversations about AGI, consciousness, and the future of intelligence.</i>
+</p>
+
+---
+
+<!-- FOOTER WAVE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,100:dbeafe&height=100&section=footer"/>
+</picture>

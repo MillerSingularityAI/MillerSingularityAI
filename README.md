@@ -77,27 +77,27 @@ I read papers, follow researchers, and think about these questions not just as a
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LLM%20Integration-39ff14?style=for-the-badge&logo=openai&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-1d4ed8?style=for-the-badge&logo=openai&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-1d4ed8?style=for-the-badge&logo=openai&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prompt%20Engineering-39ff14?style=for-the-badge&logo=anthropic&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-1d4ed8?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1d4ed8?style=for-the-badge&logo=anthropic&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AI%20Agents-39ff14?style=for-the-badge&logo=probot&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-1d4ed8?style=for-the-badge&logo=probot&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-1d4ed8?style=for-the-badge&logo=probot&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RAG%20Pipelines-39ff14?style=for-the-badge&logo=databricks&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-1d4ed8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-1d4ed8?style=for-the-badge&logo=databricks&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vector%20DBs-39ff14?style=for-the-badge&logo=pinecone&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-1d4ed8?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/Vector%20DBs-1d4ed8?style=for-the-badge&logo=pinecone&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python%20AI%20Stack-39ff14?style=for-the-badge&logo=python&logoColor=39ff14&labelColor=0d2b0d&color=0d2b0d"/>
-  <img src="https://img.shields.io/badge/Python%20AI%20Stack-1d4ed8?style=for-the-badge&logo=python&logoColor=white&labelColor=dbeafe&color=dbeafe"/>
+  <img src="https://img.shields.io/badge/Python%20AI%20Stack-1d4ed8?style=for-the-badge&logo=python&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe"/>
 </picture>
 
 ---
@@ -216,3 +216,4 @@ miller = {
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300%2C50:005500%2C100:007700&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=39ff14&fontAlignY=65">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,100:dbeafe&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=1d4ed8&fontAlignY=65">
 </picture>
+

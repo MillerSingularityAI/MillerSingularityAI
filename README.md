@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:005500,100:007700&height=180&section=header&text=Miller%20Salcedo&fontSize=46&fontColor=39ff14&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=14&descFontColor=00ff88&descAlignY=72&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300%2C50:005500%2C100:007700&height=180&section=header&text=Miller%20Salcedo&fontSize=46&fontColor=39ff14&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=14&descFontColor=00ff88&descAlignY=72&animation=fadeIn">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6ff,50:dbeafe,100:bfdbfe&height=180&section=header&text=Miller%20Salcedo&fontSize=46&fontColor=1d4ed8&fontAlignY=52&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=14&descFontColor=3b82f6&descAlignY=72&animation=fadeIn">
 </picture>
 
@@ -213,7 +213,6 @@ miller = {
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:005500,100:007700&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=39ff14&fontAlignY=65">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:003300%2C50:005500%2C100:007700&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=39ff14&fontAlignY=65">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,100:dbeafe&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20intelligence&fontSize=16&fontColor=1d4ed8&fontAlignY=65">
 </picture>
-

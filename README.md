@@ -136,7 +136,7 @@ I read papers, follow researchers, and think about these questions not just as a
 miller = {
     "role":    ["AI Engineer", "Software Engineer", "AI Research Enthusiast"],
     "building": [
-        "UI/UX learning platform powered by LLMs",
+        "UI/UX platforms powered by LLM",
         "AI agent workflows and RAG pipelines",
         "Design systems that integrate with AI",
     ],
